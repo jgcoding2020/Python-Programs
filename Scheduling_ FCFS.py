@@ -1,8 +1,8 @@
 """
 Name: Joshua Gardner
-Assignment: Scheduling Program
+Content: Scheduling Program
 Description: FCFS scheduling
-Due Date: 10/25/2021
+Date: 10/25/2021
 """
 
 from enum import Enum
