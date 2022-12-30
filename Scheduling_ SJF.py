@@ -1,9 +1,8 @@
 """
 Name: Joshua Gardner
-Course: Computer Operating Systems, COP 4610
-Assignment: Scheduling Program
-Description: FCFS, SJF, and MLFQ scheduling
-Due Date: 10/25/2021
+Content: CPU Scheduling Program
+Description: SJF scheduling
+Date: 10/25/2021
 """
 
 from enum import Enum
