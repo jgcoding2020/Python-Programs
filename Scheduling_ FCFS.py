@@ -1,8 +1,7 @@
 """
 Name: Joshua Gardner
-Course: Computer Operating Systems, COP 4610
 Assignment: Scheduling Program
-Description: FCFS, SJF, and MLFQ scheduling
+Description: FCFS scheduling
 Due Date: 10/25/2021
 """
 
